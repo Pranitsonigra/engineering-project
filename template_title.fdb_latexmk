@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1769122001.40384 "template_title.tex" "template_title.pdf" "template_title" 1769122004.47639 0
+["pdflatex"] 1769166141.76387 "template_title.tex" "template_title.pdf" "template_title" 1769166145.04838 0
   "/opt/texlive/texdir/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -8,10 +8,13 @@
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1246382020 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
+  "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "/opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -252,9 +255,10 @@
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1767234718 3635491 02f4bd8ac1b2473798778c34202f8a10 ""
   "/opt/texlive/texdir/texmf.cnf" 1767234622 555 bd60ff59e4d560b42d96b004436f91d3 ""
   "HRZ_Blue.png" 1769121490.33794 47250 270d224ff4f8fd0ab2ee81d81ccae4ed ""
-  "template_title.aux" 1769122004.105 293 83dda09479c99e36b73bb5951362010c "pdflatex"
-  "template_title.out" 1769122003.77575 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "template_title.tex" 1769121973.91027 998 b6e468fec84c0dd188526641ee9753a1 ""
+  "expose_context.tex" 1769166137.4292 2123 2255882b4f0839040c7d0641c39219b2 ""
+  "template_title.aux" 1769166144.67804 625 0904df890443deadcd82c23e3fe161e2 "pdflatex"
+  "template_title.out" 1769166144.6828 340 a9518b52901efeef2ebc8492690e403a "pdflatex"
+  "template_title.tex" 1769165700.46073 1062 b1b6d1f01b14a4a0aa44aa8e634dee4d ""
   "title.tex" 1769122000.78629 767 0be5e370169d36b4565f91ec3f663e55 ""
   (generated)
   "template_title.aux"

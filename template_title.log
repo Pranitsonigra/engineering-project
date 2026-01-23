@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.1)  22 JAN 2026 22:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.1)  23 JAN 2026 11:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1330,7 +1330,7 @@ your preamble.
  on input line 42.
 
 (./title.tex
-<HRZ_Blue.png, id=7, 804.00375pt x 918.43124pt>
+<HRZ_Blue.png, id=19, 804.00375pt x 918.43124pt>
 File: HRZ_Blue.png Graphic file (type png)
 <use HRZ_Blue.png>
 Package pdftex.def Info: HRZ_Blue.png  used on input line 6.
@@ -1356,29 +1356,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--10
 [1
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./HRZ_Blue.
-png>]) (./template_title.aux)
+png>]) (./expose_context.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48 \end{document}
+                    [1] (./template_title.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
  ***********
 Package rerunfilecheck Info: File `template_title.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: A9518B52901EFEEF2EBC8492690E403A;340.
  ) 
 Here is how much of TeX's memory you used:
- 45052 strings out of 467538
- 1057719 string characters out of 5421637
- 1643655 words of memory out of 5000000
- 73248 multiletter control sequences out of 15000+600000
- 631536 words of font info for 55 fonts, out of 8000000 for 9000
+ 45086 strings out of 467538
+ 1058168 string characters out of 5421637
+ 1647655 words of memory out of 5000000
+ 73266 multiletter control sequences out of 15000+600000
+ 632151 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  95i,6n,108p,736b,1066s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></o
-pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/tex
-live/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on template_title.pdf (1 page, 73319 bytes).
+</opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
+pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/te
+xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/
+texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/texlive/texdir
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on template_title.pdf (2 pages, 112333 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 72 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 42 words of extra memory for PDF output out of 10000 (max. 10000000)
 
