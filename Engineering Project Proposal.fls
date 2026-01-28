@@ -1,7 +1,7 @@
 PWD /data
 INPUT /opt/texlive/texdir/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT ./template_title.tex
-OUTPUT template_title.log
+INPUT ./Engineering Project Proposal.tex
+OUTPUT Engineering Project Proposal.log
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tex-ini-files/lualatexquotejobname.lua
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/base/ltluatex.lua
 INPUT /opt/texlive/texdir/texmf-dist/tex/luatex/luaotfload/luaotfload-main.lua
@@ -343,26 +343,24 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT ./template_title.aux
-OUTPUT template_title.aux
+INPUT ./Engineering Project Proposal.aux
+OUTPUT Engineering Project Proposal.aux
 INPUT /opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT ./template_title.out
-INPUT ./template_title.out
-OUTPUT template_title.pdf
-INPUT ./template_title.out
-OUTPUT template_title.out
+INPUT ./Engineering Project Proposal.out
+INPUT ./Engineering Project Proposal.out
+OUTPUT Engineering Project Proposal.pdf
+OUTPUT Engineering Project Proposal.out
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-OUTPUT template_title.bcf
-INPUT ./template_title.bbl
-INPUT ./template_title.bbl
-INPUT ./template_title.bbl
+OUTPUT Engineering Project Proposal.bcf
+INPUT ./Engineering Project Proposal.bbl
+INPUT ./Engineering Project Proposal.bbl
 INPUT ./title.tex
 INPUT ./HRZ_Blue.png
 INPUT ./HRZ_Blue.png
@@ -395,8 +393,7 @@ INPUT /opt/texlive/texdir/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bol
 INPUT /opt/texlive/texdir/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
 INPUT /opt/texlive/texdir/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc
 INPUT /opt/texlive/texdir/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
-INPUT ./template_title.aux
-INPUT ./template_title.out
-INPUT ./template_title.run.xml
-OUTPUT template_title.run.xml
+INPUT ./Engineering Project Proposal.aux
+INPUT ./Engineering Project Proposal.run.xml
+OUTPUT Engineering Project Proposal.run.xml
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb

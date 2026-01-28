@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2026.1.1)  28 JAN 2026 09:32
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2026.1.1)  28 JAN 2026 09:43
  restricted system commands enabled.
  file:line:error style messages enabled.
-**template_title.tex
-(./template_title.tex
+**"Engineering Project Proposal.tex"
+("./Engineering Project Proposal.tex"
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
@@ -1489,8 +1489,8 @@ h' as default language. on input line 44.
 \@quotelevel=\count546
 \@quotereset=\count547
 
-(./template_title.aux)
-\openout1 = template_title.aux
+("./Engineering Project Proposal.aux")
+\openout1 = Engineering Project Proposal.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
 LaTeX Font Info:    ... okay on input line 44.
@@ -1537,10 +1537,10 @@ e
 ))
 Package hyperref Info: Link coloring OFF on input line 44.
 
-(./template_title.out) (./template_title.out)
+("./Engineering Project Proposal.out") ("./Engineering Project Proposal.out")
 \@outlinefile=\write5
 
-\openout5 = template_title.out
+\openout5 = Engineering Project Proposal.out
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1623,11 +1623,11 @@ Package biblatex Info: LuaTeX detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 
-\openout4 = template_title.bcf
+\openout4 = Engineering Project Proposal.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'template_title.bbl' found.
+Package biblatex Info: ... file '"Engineering Project Proposal".bbl' found.
 
-(./template_title.bbl)
+("./Engineering Project Proposal.bbl")
 Package biblatex Info: Reference section=0 on input line 44.
 Package biblatex Info: Reference segment=0 on input line 44.
  (./title.tex
@@ -1658,35 +1658,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--10
 [1
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./HRZ_Blue.pn
-g>]) (./expose_context.tex
-Underfull \hbox (badness 10000) in paragraph at lines 27--32
-
- []
-
-)
+g>]) (./expose_context.tex)
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
-[1] [2] (./template_title.aux)
+[1] [2] ("./Engineering Project Proposal.aux")
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
  ***********
-Package rerunfilecheck Info: File `template_title.out' has not changed.
-(rerunfilecheck)             Checksum: A9518B52901EFEEF2EBC8492690E403A;340.
-Package logreq Info: Writing requests to 'template_title.run.xml'.
+Package rerunfilecheck Info: File `"Engineering Project Proposal".out' has not 
+changed.
+(rerunfilecheck)             Checksum: <no file>.
+Package logreq Info: Writing requests to '"Engineering Project Proposal".run.xm
+l'.
 
-\openout1 = template_title.run.xml
+\openout1 = Engineering Project Proposal.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 53087 strings out of 476081
+ 53090 strings out of 476081
  125165,2373549 words of node,token memory allocated
  801 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 112 glue_spec
 , 8 attribute_list, 2 write, 1 pdf_action nodes
-   avail lists: 1:2,2:417,3:177,4:56,5:320,6:32,7:5021,8:48,9:211,10:6,11:386
- 74263 multiletter control sequences out of 65536+600000
+   avail lists: 1:2,2:417,3:179,4:56,5:348,6:32,7:5445,8:48,9:213,10:5,11:408
+ 74266 multiletter control sequences out of 65536+600000
  45 fonts using 3413519 bytes
- 95i,6n,104p,735b,1304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,6n,104p,751b,1304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></
 opt/texlive/texdir/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular.otf
 ></opt/texlive/texdir/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf><
@@ -1696,7 +1693,7 @@ texlive/texdir/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></opt/t
 exlive/texdir/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf></opt/te
 xlive/texdir/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texliv
 e/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on template_title.pdf (3 pages, 83019 bytes).
+Output written on Engineering Project Proposal.pdf (3 pages, 83355 bytes).
 
 PDF statistics: 113 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream

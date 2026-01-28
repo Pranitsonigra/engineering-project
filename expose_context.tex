@@ -4,11 +4,14 @@ The drone is an octacopter with motors running at 120\unit{V}. Each motor requir
 The PDU will be required to distribute power from four battery packs to the eight motors, ensuring that each motor receives the correct voltage and current. 
 The PDU must also include safety features such as overcurrent protection, short-circuit protection, and thermal management to prevent overheating. 
  \vspace{1.5mm} \\
- \noindent The project will involve selecting appropriate components, designing the circuit layout, and testing the PDU to ensure it meets all performance and safety requirements.Each PDU consists of 4 power distribution boards (PDBs)
- connected in to 4 battery packs.Each PDB must consists of 4 output branches capable of handling total continuous current of 350\unit{A} with peak currents of up to 450\unit{A} for short durations. This ensures that even if one of the four PDBs fails, the drone can still operate and land safely.
- Futhermore, each PDB has dual redudant power inputs so that there are no single points of failure in the power distribution system.
+ \noindent The project will involve selecting appropriate components, designing the circuit layout, and testing the PDU to ensure it meets all performance and safety requirements. 
+ Each PDU consists of 4 power distribution boards (PDBs)
+ connected in to 4 battery packs. Each PDB must consists of 4 output branches capable of handling total continuous current of 350\unit{A} with peak currents of up to 450\unit{A} for short durations. This ensures that even if one of the 4 PDB fails, 
+ the drone can still operate and land safely.
+ Furthermore, each PDB has dual redundant power inputs so that there are no single points of failure in the power distribution system.
  \section{Timeline}
-The project is expected to be completed over a period of 18 weeks, with the following milestones:
+The project is expected to be completed over a period of 18 weeks, 
+with the following milestones:
 \begin{enumerate}
 \item \textbf{Week 1-2:} Requirements gathering and literature review
 \item \textbf{Week 3-4:} Research and component selection
@@ -21,4 +24,12 @@ The project is expected to be completed over a period of 18 weeks, with the foll
 \item \textbf{Week 17-18:} Documentation and project report
 \end{enumerate}
 \section{Final Deliverables}
-The final goal of this project is to test this PDU under a simulated load according to the productivity mission of the GoAERO competition.
+The final goal of this project is to test this PDU under a simulated 
+load according to the mission profile of the productivity mission of the GoAERO competition. 
+The productivity mission requires the drone to ferry a total payload of minimum
+567\unit{Kg}. This is achieved by flying 14 segments of 3,2\unit{Km} each, with a total flight time of 56 minutes.\cite{goaero_prize} 
+\vspace{1.5mm} \\
+This simulated load would mimic the current draw of the motors during different flight phases in a bench test setup. With this,
+the distribution of current across the PDB branches can be checked.
+
+

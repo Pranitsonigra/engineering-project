@@ -1,0 +1,15 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'Engineering Project Proposal.blg'
+[165] biber:342> INFO - === Wed Jan 28, 2026, 09:36:13
+[206] Biber.pm:421> INFO - Reading 'Engineering Project Proposal.bcf'
+[311] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
+[333] Biber.pm:4487> INFO - Processing section 0
+[347] Biber.pm:4678> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[359] bibtex.pm:1713> INFO - LaTeX decoding ...
+[373] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[419] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[420] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[420] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[421] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[430] bbl.pm:676> INFO - Writing 'Engineering Project Proposal.bbl' with encoding 'UTF-8'
+[432] bbl.pm:779> INFO - Output to Engineering Project Proposal.bbl
