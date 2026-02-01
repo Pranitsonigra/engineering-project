@@ -37,6 +37,11 @@
 \usepackage{pgfplots}
 \usepackage{pgfplotstable}
 \usepackage{adjustbox}
+\usepackage{tabularx}
+\usepackage{array}
+\renewcommand{\arraystretch}{1.2} % optional: adds uniform vertical padding
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\renewcommand\tabularxcolumn[1]{m{#1}}
 \usepackage{verbatim}
 \usepackage{caption}
 \usepackage{biblatex}
@@ -46,6 +51,8 @@
 \newpage
 \pagenumbering{arabic}
 \input{expose_context.tex}
+\newpage
+\input{requirements.tex}
 \newpage
 \printbibliography
 \end{document}

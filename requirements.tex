@@ -1,0 +1,36 @@
+\section{Requirements}
+\begin{table}[h]
+    \centering
+    \begin{tabularx}{\textwidth}{|c|Y|} 
+    \hline 
+    Name & Requirements \\
+    \hline
+    SYS-1 & Each PDB shall distribute electrical power to 4 motors without introducing a single point of failure in the PDU \\
+    SYS-2 & The PDU shall support continued controlled flight following the loss of any single PDB unit. \\
+    SYS-3 & The PDB shall operate safely under all foreseeable flight, ground, and fault conditions. \\
+    \hline
+    ELEC-1 & Nominal DC bus voltage shall be 120\unit{V} DC. \\
+    ELEC-2 & Each PDB shall support 350\unit{A} of Continuous and 450\unit{A} of burst current. \\
+    ELEC-3 & The total system shall support current upto 1800A. \\
+    ELEC-4 & Each PDB shall have two independent high-voltage power inputs. \\
+    ELEC-5 & Loss of one input shall not interrupt PDB operation. \\
+    ELEC-6 & Reverse current flow into a failed or disconnected input shall be prevented. \\
+    ELEC-7 & Each branch of PDB shall be capable of supplying the maximum expected ESC current without overheating or excessive voltage drop. \\
+    ELEC-8 & Each branch shall include independent overcurrent protection. \\
+    ELEC-9 & Short circuits on the main HV bus shall be detected and isolated before cascading failures occur. \\
+    \hline
+    HEAT-1 & The PDB shall operate within component temperature limits under continuous maximum current. \\
+    HEAT-2 & Thermal overload shall result in controlled derating or isolation, not sudden failure. \\
+    \hline
+    MECH-1 & High-current paths shall be implemented using busbars, not PCB copper alone. \\
+    MECH-2 & Positive and negative conductors shall be arranged to minimize loop inductance. \\
+    MECH-3 & Mechanical mounting shall withstand vibration, shock, and thermal cycling expected in UAV operation. \\
+    \hline
+    SENS-1 & Each PDB shall measure its own output current. \\
+    SENS-2 & Each PDB shall measure its own input voltage. \\
+    SENS-3 & Each PDB shall measure its own temperature at critical points. \\
+    \hline    
+    \end{tabularx}
+    \caption{System and Electrical Requirements}
+    \label{tab:requirements}
+\end{table}

@@ -328,6 +328,7 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/adjustbox/tc-luatex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/varwidth/varwidth.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tools/verbatim.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/logreq/logreq.sty
@@ -390,6 +391,7 @@ INPUT /opt/texlive/texdir/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-reg
 INPUT /opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./expose_context.tex
 INPUT /opt/texlive/texdir/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc
+INPUT ./requirements.tex
 INPUT /opt/texlive/texdir/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
 INPUT /opt/texlive/texdir/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc
 INPUT /opt/texlive/texdir/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
