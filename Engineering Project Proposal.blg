@@ -1,15 +1,15 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'Engineering Project Proposal.blg'
-[102] biber:342> INFO - === Fri Feb 13, 2026, 11:35:08
-[145] Biber.pm:421> INFO - Reading 'Engineering Project Proposal.bcf'
-[211] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
-[226] Biber.pm:4487> INFO - Processing section 0
-[237] Biber.pm:4678> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[244] bibtex.pm:1713> INFO - LaTeX decoding ...
-[249] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
-[279] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[280] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[281] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[281] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[288] bbl.pm:676> INFO - Writing 'Engineering Project Proposal.bbl' with encoding 'UTF-8'
-[290] bbl.pm:779> INFO - Output to Engineering Project Proposal.bbl
+[76] biber:342> INFO - === Thu Apr 23, 2026, 18:46:14
+[98] Biber.pm:421> INFO - Reading 'Engineering Project Proposal.bcf'
+[155] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
+[166] Biber.pm:4487> INFO - Processing section 0
+[175] Biber.pm:4678> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[183] bibtex.pm:1713> INFO - LaTeX decoding ...
+[188] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[211] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[211] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[211] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[212] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[216] bbl.pm:676> INFO - Writing 'Engineering Project Proposal.bbl' with encoding 'UTF-8'
+[217] bbl.pm:779> INFO - Output to Engineering Project Proposal.bbl
